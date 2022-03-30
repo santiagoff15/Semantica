@@ -1,0 +1,44 @@
+/* Esto es un comentario de CSS */
+
+/*
+ANATOMIA DEL CSS
+selector {
+    propiedad: valor;
+    propiedad: valor;
+}
+
+*/
+body {
+    background-color: black;
+}
+h1 {
+    color: blue;
+}
+p {
+    color:wheat;
+}
+h2 {
+    color:blue;
+}
+h3 {
+    color: blue;
+}
+h4 {
+    color: blue;
+}
+dt {
+    color: wheat;
+}dd {
+    color: wheat;
+}
+hr {
+    color: white;
+}
+li {
+    color: white;
+}
+h1 {
+    color: blue;
+}
+
+
