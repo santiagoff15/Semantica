@@ -12,24 +12,24 @@ body {
     background-color: black;
 }
 h1 {
-    color: blue;
+    color: #C344A3;
 }
 p {
-    color:wheat;
+    color:white;
 }
 h2 {
-    color:blue;
+    color:#C344A3;
 }
 h3 {
-    color: blue;
+    color: #C344A3;
 }
 h4 {
-    color: blue;
+    color: #C344A3;
 }
 dt {
-    color: wheat;
+    color: white;
 }dd {
-    color: wheat;
+    color: white;
 }
 hr {
     color: white;
@@ -38,7 +38,18 @@ li {
     color: white;
 }
 h1 {
-    color: blue;
+    color: #C344A3;
 }
-
+b {
+    color: white;
+}
+table {
+    background-color: white;
+}
+td {
+    color: #C344A3;
+}
+th {
+    color:#C344A3;
+}
 
