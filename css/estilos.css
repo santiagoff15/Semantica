@@ -43,13 +43,17 @@ h1 {
 b {
     color: white;
 }
-table {
-    background-color: white;
-}
+
 td {
     color: #C344A3;
+    background-color: rgba(255, 251, 0, 0.788);
 }
 th {
     color:#C344A3;
+    background-color: rgba(255, 251, 0, 0.788);
+}
+img {
+    width: 600px;
+    height: 500px;
 }
 
