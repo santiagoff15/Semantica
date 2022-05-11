@@ -1,0 +1,59 @@
+#caja1{
+    background-color: blue;
+    margin: 45px;
+    padding: 50px 25px;
+}
+
+#caja2{
+background-color: gold;
+margin: 35px;
+padding: 40px 20px;
+}
+
+#caja3{
+background-color: blue;
+margin: 25px;
+padding: 30px 15px;
+}
+
+#caja4{
+background-color: gold;
+margin: 15px;
+padding: 20px 10px;
+}
+
+#caja5{
+background-color: blue;
+margin: 5px;
+padding: 10px 5px;
+}
+body{
+    background-color: black;
+    margin: 500px;
+    width: 500px;
+}
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+main{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+#letra1{
+color: gold;
+}
+#letra2{
+color: gold;
+}
+#letra3{
+    color: gold;
+}
+#letra4{
+    color: gold;
+}
+#letra5{
+    color: gold;
+}
