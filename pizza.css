@@ -1,0 +1,85 @@
+#logo {
+    width: 120px;
+    height: 120px;
+    margin-left: 20px;
+}
+
+header {
+    padding: 20px;
+    background-color: #D43722;
+    text-align: center;
+    display: flex;
+    box-shadow: -1px 1px 26px 0px rgb(133, 0, 0)inset;
+
+}
+header p {
+    margin: 0px;
+}
+
+header h1 {
+    text-align: center;
+    display: flex;
+    margin-top: 40px;
+    margin-left: 300px;
+    margin-right: 300px;
+    color: #000000;
+}
+
+main {
+    background-color: #E55E4C;
+    padding: 500px;
+    box-shadow: -1px 1px 26px 0px rgb(133, 0, 0)inset;
+}
+
+footer {
+    background-color: #810F00;
+    padding: 200px;
+}
+
+div p {
+    font-family: 'Koulen', cursive;
+    font-size: 20px;
+}
+
+.icononav {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+nav li {
+    display: inline;
+    text-align: left;
+    margin-right: 15px;
+    background-color: white;
+    border: #13073A solid 5px;
+    padding: 8px;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+
+nav {
+    text-align: left;
+    align-items: left;
+}
+li{
+    font-family: 'Permanent Marker', cursive;
+    list-style:none
+}
+#direccion{
+    text-align: right;
+}
+.redes{
+    display: flex;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    background-color: #810F00;
+}
+#terminos{
+    text-align: center;
+    
+}
+#cuentas{
+    text-align: left;
+}
